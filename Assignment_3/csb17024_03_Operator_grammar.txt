@@ -1,0 +1,16 @@
+A -> w (C) b S e
+C -> i < n
+S -> E; 
+E -> i = i / n
+
+NOTE : w is while
+	   b is begin
+	   i is identifier 
+	   e is end
+	   C is condition
+	   S is statement
+
+Also it is implied that
+
+i can be replaced by - a | b | .... | z
+n can be replaced by - 0 | 1 | 2 | ..... | 9

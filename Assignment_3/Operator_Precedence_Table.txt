@@ -1,0 +1,31 @@
+     w		(		)		b		e		i		<		;		=		/
+
+ w	 err	 T		err		err		err		err		err		err		err		err				
+ (	 err	err 	 E		err		err		 Y		 Y		err 	err		 Y
+
+ )	 err	err		err	 	 Y		err		err		err		err		err		err
+
+ b	 err	err		err		err		 E		 Y		err		 Y		 Y		err
+
+ e 	 err	err		err		err		err 	err		err		err		err		err
+
+ i	 err	err		 T		err		err		err		 T		 T		 T		 T	
+
+ <	 err	err		 T		err		err		 Y		err		err		err		 Y
+
+ ;   err	err 	err		err		 T		 Y		err		err		 Y		err
+
+ =	 err	err		err		err		err		 Y		err		 T		err		 Y
+
+ /	 err	err		 T		err		err		 Y		 T		 T		err		 T
+
+
+ NOTE : 
+ w   : while
+ b   : begin
+ e   : end
+ i   : identifier
+ err :error
+ Y   :yields precedence to
+ T   :takes precedence from
+ E   : equal precedence
