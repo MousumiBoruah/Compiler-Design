@@ -1,0 +1,20 @@
+The CFG is:-
+
+S -> while (C) { A }
+C -> E == E
+A -> id = E;
+E -> E * E | E + E | (E) | id | num
+id -> a|b|c.....|z
+num -> 0|1|2..|9   
+
+Example statement:-
+
+while(a == 10){
+	b = (d*10);
+}
+
+To compile:-
+$ lex CSB17024_CFG.l
+$ bison CSB17024_CFG.y
+$ gcc CSB17024_CFG.tab.c 
+$ ./a.out
