@@ -1,0 +1,12 @@
+int main(){
+	int a = 15;
+	int b = 10;
+
+	if(a > b){
+		printf("a is greater than b");
+	}
+	else if(b > a){
+		printf("b is greater than a");
+	}
+	return 0;
+}
