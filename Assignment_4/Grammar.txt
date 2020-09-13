@@ -1,0 +1,8 @@
+A -> w (C) b S e
+C -> i < n 
+S -> i = i / n;
+w -> while
+b -> begin
+e -> end
+i -> a|b|c....|z
+n -> 0|1|2...|9
